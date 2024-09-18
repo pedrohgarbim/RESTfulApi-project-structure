@@ -1,7 +1,7 @@
 # Desenvolvimento de API RESTFUL em ASP.NET Core 🚀
 ![image](https://github.com/user-attachments/assets/d000b7c5-98f8-440e-aa3e-764c99b80323)
 
-## Esse projeto é apenas explicativo, o real projeto de total funcionamento de uma  API RESTFUL em ASP.NET Core está em [WebDiaryAPI(RESTfulAPI](https://github.com/pedrohgarbim/WebDiaryAPI)
+## Esse projeto é apenas explicativo, o real projeto de total funcionamento de uma  API RESTFUL em ASP.NET Core está em [WebDiaryAPI(RESTfulAPI)](https://github.com/pedrohgarbim/WebDiaryAPI)
 ## O que é uma API e por que é importante? 🤔
 
 **API (Interface de Programação de Aplicações)** é um conjunto de regras e definições que permite que diferentes aplicações de software se comuniquem entre si. Ela é crucial porque possibilita a integração de diferentes sistemas, permitindo que funcionem em conjunto de forma eficiente.
